@@ -5,3 +5,4 @@ echo simon
 echo pierre
 echo paul
 echo Francis
+echo this list is full
